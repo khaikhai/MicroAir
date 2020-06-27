@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blue_grey">#455A64</color>
+    <color name="red">#F44336</color>
+    <color name="pink">#E91E63</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="blue">#2196F3</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="green">#4CAF50</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="deep_orange">#FF5722</color>
+    <color name="brown">#795548</color>
+    <color name="grey">#E0E0E0</color>
+    <color name="md_white_1000">#FFFFFF</color>
+    <item name="FlatWhite" type="color">#F5F5F5</item>
+    <color name="window_color">@color/md_white_1000</color>
+    <color name="window_color_light">@color/md_white_1000</color>
+    <color name="window_color_dark">@android:color/black</color>
+
+    <color name="twenty_percent_black_overlay">#34000000</color>
+    <color name="eighty_percent_black_overlay">#80000000</color>
+    <color name="app_shortcut_default_foreground">#607d8b</color>
+    <color name="app_shortcut_default_background">#f5f5f5</color>
+    <color name="md_indigo_A400">#3D5AFE</color>
+    <color name="dark_color">#202124</color>
+    <color name="dark_grey">#17181a</color>
+    <color name="card_dark_color">#222326</color>
+    <color name="black_color">#202124</color>
+
+    <color name="flatOrange">#FF9500</color>
+    <color name="FlatYellow">#FFCC00</color>
+
+    <color name="lightColorPrimary">#FFFFFF</color>
+    <color name="lightColorOnPrimary">#202020</color>
+    <color name="lightColorSecondary">#FEFEFE</color>
+    <color name="lightColorBackground">#FFFFFF</color>
+    <color name="lightColorSurface">#FEFEFE</color>
+
+    <color name="darkColorPrimary">#202124</color>
+    <color name="darkColorOnPrimary">#ffffff</color>
+    <color name="darkColorSecondary">#202124</color>
+    <color name="darkColorBackground">#202124</color>
+    <color name="darkColorSurface">#202124</color>
+
+    <color name="blackColorPrimary">#000000</color>
+    <color name="blackColorOnPrimary">#ffffff</color>
+    <color name="blackColorSecondary">#000000</color>
+    <color name="blackColorBackground">#000000</color>
+    <color name="blackColorSurface">#000000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#20000000</color>
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="card_detailing">#eee</color>
+
+    <color name="progress_gray">#FFD8D8D8</color>
+    <color name="progress_gray_dark">#FF383838</color>
+    <color name="default_blue_light">#ff33b5e5</color>
+
+</resources>
